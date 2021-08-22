@@ -1,3 +1,4 @@
+# This makes a fast typing animation in terminal
 def scirpt():
     def typing_animation():
         import sys
